@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon.png</file>
+    </qresource>
+    <qresource prefix="/translation">
+        <file>lemonplusclient_zh_CN.qm</file>
+        <file>qt_zh_CN.qm</file>
+    </qresource>
+</RCC>
